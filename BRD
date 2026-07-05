@@ -1,1 +1,119 @@
+# Business Requirements Document (BRD)
 
+**Document Version:** 1.0  
+**Date:**  
+**Author:** Janhavi Sahasrabudhe  
+**Status:** Draft / In Review / Approved  
+
+---
+
+## 1. Executive Summary
+Brief overview of the business problem, proposed solution, 
+and expected outcomes.
+
+---
+
+## 2. Business Objective
+What business goal does this initiative support?
+- Primary objective:
+- Secondary objective:
+- Success looks like:
+
+---
+
+## 3. Problem Statement
+What problem are we solving? What is the current state 
+vs desired state?
+
+| Current State | Desired State |
+|---|---|
+| | |
+
+---
+
+## 4. Scope
+
+### In Scope
+- 
+- 
+
+### Out of Scope
+- 
+- 
+
+---
+
+## 5. Stakeholders
+
+| Name | Role | Responsibility | Engagement Level |
+|---|---|---|---|
+| | Executive Sponsor | Final approval | Informed |
+| | Product Manager | Requirements owner | Accountable |
+| | Engineering Lead | Technical delivery | Consulted |
+| | End Users | Validation | Informed |
+
+---
+
+## 6. Business Requirements
+
+| ID | Requirement | Priority | Acceptance Criteria |
+|---|---|---|---|
+| BR-01 | | High | |
+| BR-02 | | Medium | |
+| BR-03 | | Low | |
+
+---
+
+## 7. Assumptions
+- 
+- 
+
+## 8. Constraints
+- 
+- 
+
+## 9. Dependencies
+- 
+- 
+
+---
+
+## 10. Risks
+
+| Risk | Likelihood | Impact | Mitigation |
+|---|---|---|---|
+| | High | High | |
+| | Medium | Medium | |
+
+---
+
+## 11. Success Metrics / KPIs
+
+| Metric | Baseline | Target | Measurement Method |
+|---|---|---|---|
+| | | | |
+
+---
+
+## 12. Timeline
+
+| Milestone | Target Date | Owner |
+|---|---|---|
+| Requirements sign-off | | |
+| Design complete | | |
+| Development complete | | |
+| UAT complete | | |
+| Go-live | | |
+
+---
+
+## 13. Approvals
+
+| Name | Role | Signature | Date |
+|---|---|---|---|
+| | Executive Sponsor | | |
+| | Product Manager | | |
+| | Engineering Lead | | |
+
+
+Link: https://drive.google.com/drive/folders/1obhGWDOysUHl36juEeav6XsRs9uwOVD4?usp=sharing
