@@ -1,2 +1,2 @@
 # pm-artifacts
-PM artifacts, templates, and delivery documentation — BRDs, FRDs, case studies, and frameworks built across AI, cloud, and data programs.
+PM templates, frameworks, and delivery documentation — RAID logs, status reports, BRDs, FRDs, and program management SOPs.
