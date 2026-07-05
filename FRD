@@ -1,1 +1,131 @@
+# Functional Requirements Document (FRD)
 
+**Document Version:** 1.0  
+**Date:**  
+**Author:** Janhavi Sahasrabudhe  
+**Status:** Draft / In Review / Approved  
+**Linked BRD:** [View BRD](https://drive.google.com/drive/folders/1obhGWDOysUHl36juEeav6XsRs9uwOVD4?usp=drive_link)
+
+📁 **Full FRD Documentation:** (https://drive.google.com/drive/folders/1UpUIoQdb9ZWwRgn1NHtHhwXWqZXk_SBP?usp=drive_link)
+
+---
+
+## 1. Purpose
+Defines the functional requirements that the system/product 
+must fulfil to meet the business objectives outlined in the BRD.
+
+---
+
+## 2. System Overview
+Brief description of the system being built and its primary function.
+
+---
+
+## 3. User Roles & Personas
+
+| Role | Description | Access Level |
+|---|---|---|
+| Admin | Manages system configuration | Full |
+| Program Manager | Views dashboards, generates reports | Read/Write |
+| Stakeholder | Views reports only | Read |
+
+---
+
+## 4. Functional Requirements
+
+| ID | Feature | Description | Priority | Acceptance Criteria |
+|---|---|---|---|---|
+| FR-01 | | | High | |
+| FR-02 | | | High | |
+| FR-03 | | | Medium | |
+| FR-04 | | | Low | |
+
+---
+
+## 5. User Stories
+
+| ID | As a... | I want to... | So that... | Priority |
+|---|---|---|---|---|
+| US-01 | Program Manager | View real-time KPIs | I can track delivery health | High |
+| US-02 | Program Manager | Generate AI reports | I can save reporting time | High |
+| US-03 | Stakeholder | Filter by severity | I can focus on critical items | Medium |
+
+---
+
+## 6. System Features
+
+### 6.1 Dashboard
+- Real-time KPI display
+- Filterable by date, owner, status
+- Export functionality
+
+### 6.2 Reporting
+- One-click report generation
+- AI-powered narrative summaries
+- Downloadable PDF output
+
+### 6.3 Alerts
+- Automated risk scoring
+- High severity flagging
+- Email/notification triggers
+
+---
+
+## 7. Non-Functional Requirements
+
+| Category | Requirement |
+|---|---|
+| Performance | Page load under 3 seconds |
+| Security | Role-based access control |
+| Scalability | Support 500+ concurrent users |
+| Availability | 99.9% uptime SLA |
+
+---
+
+## 8. Data Requirements
+
+| Data Element | Source | Format | Frequency |
+|---|---|---|---|
+| Task Status | JIRA | JSON | Real-time |
+| Cost Data | Azure | CSV | Daily |
+| Incident Logs | ServiceNow | JSON | Real-time |
+
+---
+
+## 9. Integration Requirements
+
+| System | Integration Type | Purpose |
+|---|---|---|
+| Azure | API | Cloud cost data |
+| JIRA | Webhook | Task tracking |
+| Power BI | Embedded | Visualisation |
+
+---
+
+## 10. Wireframes / UI References
+Link to designs or attach screenshots here.
+
+---
+
+## 11. Assumptions & Constraints
+- 
+- 
+
+---
+
+## 12. UAT Scenarios
+
+| Test ID | Scenario | Expected Result | Pass/Fail |
+|---|---|---|---|
+| UAT-01 | | | |
+| UAT-02 | | | |
+
+---
+
+## 13. Approvals
+
+| Name | Role | Signature | Date |
+|---|---|---|---|
+| | Product Manager | | |
+| | Engineering Lead | | |
+| | QA Lead | | |
