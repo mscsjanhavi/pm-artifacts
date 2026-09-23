@@ -5,3 +5,10 @@ PM templates, frameworks, and delivery documentation — RAID logs, status repor
 
 ## 📄 Resume
 👉 [View Resume](./Janhavi_Sahasrabudhe_Resume.pdf)
+
+## BRD
+📁 [View on Google Drive](https://drive.google.com/drive/folders/1obhGWDOysUHl36juEeav6XsRs9uwOVD4?usp=drive_link)
+
+## FRD
+📁 [View on Google Drive] 
+
